@@ -5,7 +5,7 @@
     <link>https://example.com/social</link>
     <description>A feed of recent social media posts</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Aug 2025 13:59:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 13:59:00 +0800</lastBuildDate>
     <atom:link href="https://example.com/feed.rss" rel="self" type="application/rss+xml" />
 
 
@@ -52,6 +52,13 @@
       <link>https://example.com/social/post2</link>
       <guid>https://example.com/social/post2</guid>
       <PublishDate>Sat, 02 Aug 2025 10:30:00 +0800</PublishDate>
+      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
+    </item>
+<item>
+      <title>4th Social Post</title>
+      <link>https://example.com/social/post2</link>
+      <guid>https://example.com/social/post2</guid>
+      <PublishDate>Sun, 03 Aug 2025 10:30:00 +0800</PublishDate>
       <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
     </item>
   </channel>
