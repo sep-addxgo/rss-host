@@ -1,65 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Social Media Feed</title>
-    <link>https://example.com/social</link>
-    <description>A feed of recent social media posts</description>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Aug 2025 13:59:00 +0800</lastBuildDate>
-    <atom:link href="https://example.com/feed.rss" rel="self" type="application/rss+xml" />
-
-
-    <item>
-      <title>Second Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Fri, 01 Aug 2025 15:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-
-    <item>
-      <title>First Social Post</title>
-      <link>https://example.com/social/post1</link>
-      <guid>https://example.com/social/post1</guid>
-      <PublishDate>Fri, 01 Aug 2025 10:00:00 +0800</PublishDate>
-      <description>Excited to share our latest updates with the community! Check out our new features.</description>
-    </item>
-
-    <item>
-      <title>Second Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Fri, 01 Aug 2025 09:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<generator>NFE/5.0</generator>
+<title>ADDX Go Updates</title>
+<link>https://addxgo.io</link>
+<language>en-US</language>
+<webMaster>hello@addxgo.io</webMaster>
+<copyright>Copyright © 2025 ADDX Digital. All rights reserved.</copyright>
+<lastBuildDate>Fri, 15 Aug 2025 06:29:49 GMT</lastBuildDate>
+<image>
+<title>ADDX Go Updates</title>
+<url>https://addxgo.io/_next/static/media/logo.862b44b2.svg</url>
+<link>https://addxgo.io/</link>
+<height>256</height>
+<width>256</width>
+</image>
+<description>ADDX Go Updates</description>
 <item>
-      <title>4th Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Sat, 02 Aug 2025 09:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-<item>
-      <title>4th Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Sat, 02 Aug 2025 09:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-<item>
-      <title>4th Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Sat, 02 Aug 2025 10:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-<item>
-      <title>4th Social Post</title>
-      <link>https://example.com/social/post2</link>
-      <guid>https://example.com/social/post2</guid>
-      <PublishDate>Sun, 03 Aug 2025 10:30:00 +0800</PublishDate>
-      <description>Join us for a live Q&amp;A session this weekend. Bring your questions!</description>
-    </item>
-  </channel>
+<title>[Notification Title]</title>
+<link>https://addxgo.io/notificationlink</link>
+<pubDate>Fri, 15 Aug 2025 03:48:00 GMT</pubDate>
+<description>[Notification Content]</description>
+<source url="https://addxgo.io/h5link">ADDX Go</source>
+</item>
+</channel>
 </rss>
